@@ -1,4 +1,4 @@
-var wordsTotal = 15;
+var wordsTotal = 60;
 var textspan = document.getElementById("text");
 
 function createWordList(wordJson) {
